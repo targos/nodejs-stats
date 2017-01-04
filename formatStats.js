@@ -11,8 +11,8 @@ stats.sort(function (stat1, stat2) {
 const result = [];
 
 
-result.push('| Repo | Stars | Watchers | Forks | Unique views | Total views |');
-result.push('| ---- | ----: | -------: | ----: | -----------: | ----------: |');
+result.push('| Repo | Stars | Watchers | Forks | Total views | Unique views |');
+result.push('| ---- | ----: | -------: | ----: | ----------: | -----------: |');
 
 for (const stat of stats) {
     result.push(`| ${stat.name} | ${stat.stars} | ${stat.watchers} | ${stat.forks} | ${stat.viewCount} | ${stat.viewUnique} |`);

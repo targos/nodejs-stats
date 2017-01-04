@@ -1,5 +1,5 @@
-| Repo | Stars | Watchers | Forks | Unique views | Total views |
-| ---- | ----: | -------: | ----: | -----------: | ----------: |
+| Repo | Stars | Watchers | Forks | Total views | Unique views |
+| ---- | ----: | -------: | ----: | ----------: | -----------: |
 | node | 30339 | 30339 | 5469 | 141094 | 47442 |
 | node-v0.x-archive | 36752 | 36752 | 8262 | 41058 | 29268 |
 | node-gyp | 2779 | 2779 | 510 | 35547 | 16809 |
