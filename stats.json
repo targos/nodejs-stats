@@ -1,0 +1,826 @@
+[
+  {
+    "name": "http-parser",
+    "stars": 3013,
+    "watchers": 3013,
+    "forks": 848,
+    "viewCount": 2854,
+    "viewUnique": 1040
+  },
+  {
+    "name": "node-v0.x-archive",
+    "stars": 36752,
+    "watchers": 36752,
+    "forks": 8262,
+    "viewCount": 41058,
+    "viewUnique": 29268
+  },
+  {
+    "name": "node-gyp",
+    "stars": 2779,
+    "watchers": 2779,
+    "forks": 510,
+    "viewCount": 35547,
+    "viewUnique": 16809
+  },
+  {
+    "name": "readable-stream",
+    "stars": 477,
+    "watchers": 477,
+    "forks": 93,
+    "viewCount": 1523,
+    "viewUnique": 537
+  },
+  {
+    "name": "node-addon-examples",
+    "stars": 681,
+    "watchers": 681,
+    "forks": 216,
+    "viewCount": 4642,
+    "viewUnique": 574
+  },
+  {
+    "name": "nan",
+    "stars": 1612,
+    "watchers": 1612,
+    "forks": 250,
+    "viewCount": 7626,
+    "viewUnique": 1665
+  },
+  {
+    "name": "nodejs.org-archive",
+    "stars": 66,
+    "watchers": 66,
+    "forks": 86,
+    "viewCount": 133,
+    "viewUnique": 62
+  },
+  {
+    "name": "build",
+    "stars": 131,
+    "watchers": 131,
+    "forks": 49,
+    "viewCount": 1078,
+    "viewUnique": 345
+  },
+  {
+    "name": "roadmap",
+    "stars": 133,
+    "watchers": 133,
+    "forks": 40,
+    "viewCount": 192,
+    "viewUnique": 119
+  },
+  {
+    "name": "build-containers",
+    "stars": 27,
+    "watchers": 27,
+    "forks": 6,
+    "viewCount": 11,
+    "viewUnique": 9
+  },
+  {
+    "name": "node",
+    "stars": 30339,
+    "watchers": 30339,
+    "forks": 5469,
+    "viewCount": 141094,
+    "viewUnique": 47442
+  },
+  {
+    "name": "iojs.org",
+    "stars": 209,
+    "watchers": 209,
+    "forks": 133,
+    "viewCount": 71,
+    "viewUnique": 39
+  },
+  {
+    "name": "logos",
+    "stars": 49,
+    "watchers": 49,
+    "forks": 40,
+    "viewCount": 31,
+    "viewUnique": 13
+  },
+  {
+    "name": "docker-node",
+    "stars": 914,
+    "watchers": 914,
+    "forks": 207,
+    "viewCount": 13600,
+    "viewUnique": 4513
+  },
+  {
+    "name": "build-container-sync",
+    "stars": 3,
+    "watchers": 3,
+    "forks": 4,
+    "viewCount": 2,
+    "viewUnique": 1
+  },
+  {
+    "name": "doc-tool",
+    "stars": 14,
+    "watchers": 14,
+    "forks": 11,
+    "viewCount": 6,
+    "viewUnique": 6
+  },
+  {
+    "name": "docker-iojs",
+    "stars": 166,
+    "watchers": 166,
+    "forks": 31,
+    "viewCount": 144,
+    "viewUnique": 88
+  },
+  {
+    "name": "diagnostics",
+    "stars": 115,
+    "watchers": 115,
+    "forks": 21,
+    "viewCount": 246,
+    "viewUnique": 86
+  },
+  {
+    "name": "nodejs-es",
+    "stars": 60,
+    "watchers": 60,
+    "forks": 8,
+    "viewCount": 42,
+    "viewUnique": 11
+  },
+  {
+    "name": "nodejs-ko",
+    "stars": 154,
+    "watchers": 154,
+    "forks": 44,
+    "viewCount": 783,
+    "viewUnique": 98
+  },
+  {
+    "name": "nodejs-nl",
+    "stars": 5,
+    "watchers": 5,
+    "forks": 2,
+    "viewCount": 3,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-de",
+    "stars": 12,
+    "watchers": 12,
+    "forks": 4,
+    "viewCount": 19,
+    "viewUnique": 8
+  },
+  {
+    "name": "nodejs-pt",
+    "stars": 23,
+    "watchers": 23,
+    "forks": 7,
+    "viewCount": 22,
+    "viewUnique": 8
+  },
+  {
+    "name": "nodejs-ru",
+    "stars": 72,
+    "watchers": 72,
+    "forks": 18,
+    "viewCount": 37,
+    "viewUnique": 21
+  },
+  {
+    "name": "nodejs-fr",
+    "stars": 18,
+    "watchers": 18,
+    "forks": 6,
+    "viewCount": 5,
+    "viewUnique": 4
+  },
+  {
+    "name": "nodejs-da",
+    "stars": 1,
+    "watchers": 1,
+    "forks": 3,
+    "viewCount": 6,
+    "viewUnique": 2
+  },
+  {
+    "name": "nodejs-hi",
+    "stars": 3,
+    "watchers": 3,
+    "forks": 4,
+    "viewCount": 35,
+    "viewUnique": 20
+  },
+  {
+    "name": "nodejs-ja",
+    "stars": 87,
+    "watchers": 87,
+    "forks": 11,
+    "viewCount": 21,
+    "viewUnique": 12
+  },
+  {
+    "name": "nodejs-no",
+    "stars": 13,
+    "watchers": 13,
+    "forks": 7,
+    "viewCount": 3,
+    "viewUnique": 3
+  },
+  {
+    "name": "nodejs-hu",
+    "stars": 5,
+    "watchers": 5,
+    "forks": 7,
+    "viewCount": 2,
+    "viewUnique": 2
+  },
+  {
+    "name": "nodejs-he",
+    "stars": 7,
+    "watchers": 7,
+    "forks": 4,
+    "viewCount": 3,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-it",
+    "stars": 7,
+    "watchers": 7,
+    "forks": 3,
+    "viewCount": 11,
+    "viewUnique": 7
+  },
+  {
+    "name": "nodejs-sv",
+    "stars": 6,
+    "watchers": 6,
+    "forks": 0,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-tr",
+    "stars": 19,
+    "watchers": 19,
+    "forks": 4,
+    "viewCount": 13,
+    "viewUnique": 11
+  },
+  {
+    "name": "nodejs-ka",
+    "stars": 7,
+    "watchers": 7,
+    "forks": 1,
+    "viewCount": 3,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-mk",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 2,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-pl",
+    "stars": 5,
+    "watchers": 5,
+    "forks": 2,
+    "viewCount": 10,
+    "viewUnique": 4
+  },
+  {
+    "name": "nodejs-el",
+    "stars": 13,
+    "watchers": 13,
+    "forks": 3,
+    "viewCount": 7,
+    "viewUnique": 4
+  },
+  {
+    "name": "nodejs-id",
+    "stars": 15,
+    "watchers": 15,
+    "forks": 8,
+    "viewCount": 13,
+    "viewUnique": 6
+  },
+  {
+    "name": "nodejs-cs",
+    "stars": 1,
+    "watchers": 1,
+    "forks": 0,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-zh-CN",
+    "stars": 376,
+    "watchers": 376,
+    "forks": 58,
+    "viewCount": 102,
+    "viewUnique": 67
+  },
+  {
+    "name": "nodejs-uk",
+    "stars": 23,
+    "watchers": 23,
+    "forks": 9,
+    "viewCount": 8,
+    "viewUnique": 4
+  },
+  {
+    "name": "nodejs-zh-TW",
+    "stars": 96,
+    "watchers": 96,
+    "forks": 12,
+    "viewCount": 14,
+    "viewUnique": 7
+  },
+  {
+    "name": "nodejs-fi",
+    "stars": 8,
+    "watchers": 8,
+    "forks": 2,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-bn",
+    "stars": 1,
+    "watchers": 1,
+    "forks": 2,
+    "viewCount": 3,
+    "viewUnique": 2
+  },
+  {
+    "name": "nodejs-ro",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 0,
+    "viewCount": 4,
+    "viewUnique": 3
+  },
+  {
+    "name": "nodejs-fa",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 2,
+    "viewCount": 11,
+    "viewUnique": 5
+  },
+  {
+    "name": "evangelism",
+    "stars": 188,
+    "watchers": 188,
+    "forks": 34,
+    "viewCount": 345,
+    "viewUnique": 113
+  },
+  {
+    "name": "nodejs-ta",
+    "stars": 3,
+    "watchers": 3,
+    "forks": 3,
+    "viewCount": 17,
+    "viewUnique": 9
+  },
+  {
+    "name": "nodejs-vi",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 5,
+    "viewCount": 14,
+    "viewUnique": 7
+  },
+  {
+    "name": "nodejs-bg",
+    "stars": 3,
+    "watchers": 3,
+    "forks": 3,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "NG",
+    "stars": 96,
+    "watchers": 96,
+    "forks": 2,
+    "viewCount": 827,
+    "viewUnique": 635
+  },
+  {
+    "name": "nodejs-ar",
+    "stars": 1,
+    "watchers": 1,
+    "forks": 5,
+    "viewCount": 15,
+    "viewUnique": 6
+  },
+  {
+    "name": "nodejs-ms",
+    "stars": 1,
+    "watchers": 1,
+    "forks": 2,
+    "viewCount": 0,
+    "viewUnique": 0
+  },
+  {
+    "name": "hardware",
+    "stars": 39,
+    "watchers": 39,
+    "forks": 8,
+    "viewCount": 38,
+    "viewUnique": 20
+  },
+  {
+    "name": "dev-policy",
+    "stars": 108,
+    "watchers": 108,
+    "forks": 14,
+    "viewCount": 15,
+    "viewUnique": 13
+  },
+  {
+    "name": "LTS",
+    "stars": 633,
+    "watchers": 633,
+    "forks": 66,
+    "viewCount": 11170,
+    "viewUnique": 8450
+  },
+  {
+    "name": "node-convergence-archive",
+    "stars": 2009,
+    "watchers": 2009,
+    "forks": 127,
+    "viewCount": 25,
+    "viewUnique": 19
+  },
+  {
+    "name": "nodejs-sw",
+    "stars": 2,
+    "watchers": 2,
+    "forks": 3,
+    "viewCount": 0,
+    "viewUnique": 0
+  },
+  {
+    "name": "membership",
+    "stars": 33,
+    "watchers": 33,
+    "forks": 7,
+    "viewCount": 96,
+    "viewUnique": 58
+  },
+  {
+    "name": "benchmarking",
+    "stars": 50,
+    "watchers": 50,
+    "forks": 18,
+    "viewCount": 348,
+    "viewUnique": 113
+  },
+  {
+    "name": "Intl",
+    "stars": 17,
+    "watchers": 17,
+    "forks": 7,
+    "viewCount": 22,
+    "viewUnique": 18
+  },
+  {
+    "name": "post-mortem",
+    "stars": 66,
+    "watchers": 66,
+    "forks": 11,
+    "viewCount": 97,
+    "viewUnique": 40
+  },
+  {
+    "name": "email",
+    "stars": 16,
+    "watchers": 16,
+    "forks": 23,
+    "viewCount": 119,
+    "viewUnique": 44
+  },
+  {
+    "name": "summit",
+    "stars": 16,
+    "watchers": 16,
+    "forks": 6,
+    "viewCount": 48,
+    "viewUnique": 19
+  },
+  {
+    "name": "docs",
+    "stars": 58,
+    "watchers": 58,
+    "forks": 21,
+    "viewCount": 183,
+    "viewUnique": 76
+  },
+  {
+    "name": "inclusivity",
+    "stars": 78,
+    "watchers": 78,
+    "forks": 17,
+    "viewCount": 84,
+    "viewUnique": 36
+  },
+  {
+    "name": "nodejs.org",
+    "stars": 530,
+    "watchers": 530,
+    "forks": 843,
+    "viewCount": 2098,
+    "viewUnique": 656
+  },
+  {
+    "name": "api",
+    "stars": 60,
+    "watchers": 60,
+    "forks": 10,
+    "viewCount": 54,
+    "viewUnique": 20
+  },
+  {
+    "name": "smoke-test",
+    "stars": 2,
+    "watchers": 2,
+    "forks": 2,
+    "viewCount": 6,
+    "viewUnique": 2
+  },
+  {
+    "name": "citgm",
+    "stars": 151,
+    "watchers": 151,
+    "forks": 31,
+    "viewCount": 1005,
+    "viewUnique": 83
+  },
+  {
+    "name": "TSC",
+    "stars": 51,
+    "watchers": 51,
+    "forks": 27,
+    "viewCount": 961,
+    "viewUnique": 253
+  },
+  {
+    "name": "collaboration",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 4,
+    "viewCount": 5,
+    "viewUnique": 4
+  },
+  {
+    "name": "code-and-learn",
+    "stars": 58,
+    "watchers": 58,
+    "forks": 51,
+    "viewCount": 74,
+    "viewUnique": 26
+  },
+  {
+    "name": "help",
+    "stars": 123,
+    "watchers": 123,
+    "forks": 30,
+    "viewCount": 7116,
+    "viewUnique": 4946
+  },
+  {
+    "name": "foundation-slides",
+    "stars": 2,
+    "watchers": 2,
+    "forks": 11,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "http",
+    "stars": 7,
+    "watchers": 7,
+    "forks": 3,
+    "viewCount": 17,
+    "viewUnique": 9
+  },
+  {
+    "name": "llnode",
+    "stars": 257,
+    "watchers": 257,
+    "forks": 21,
+    "viewCount": 184,
+    "viewUnique": 54
+  },
+  {
+    "name": "Future-CI",
+    "stars": 7,
+    "watchers": 7,
+    "forks": 4,
+    "viewCount": 8,
+    "viewUnique": 4
+  },
+  {
+    "name": "node-chakracore",
+    "stars": 908,
+    "watchers": 908,
+    "forks": 71,
+    "viewCount": 1991,
+    "viewUnique": 793
+  },
+  {
+    "name": "node-eps",
+    "stars": 208,
+    "watchers": 208,
+    "forks": 31,
+    "viewCount": 958,
+    "viewUnique": 492
+  },
+  {
+    "name": "testing",
+    "stars": 13,
+    "watchers": 13,
+    "forks": 10,
+    "viewCount": 59,
+    "viewUnique": 18
+  },
+  {
+    "name": "live.nodejs.org",
+    "stars": 30,
+    "watchers": 30,
+    "forks": 17,
+    "viewCount": 21,
+    "viewUnique": 18
+  },
+  {
+    "name": "contribution-slides",
+    "stars": 3,
+    "watchers": 3,
+    "forks": 2,
+    "viewCount": 0,
+    "viewUnique": 0
+  },
+  {
+    "name": "promises",
+    "stars": 93,
+    "watchers": 93,
+    "forks": 3,
+    "viewCount": 680,
+    "viewUnique": 509
+  },
+  {
+    "name": "foundation.nodejs.org",
+    "stars": 5,
+    "watchers": 5,
+    "forks": 6,
+    "viewCount": 15,
+    "viewUnique": 7
+  },
+  {
+    "name": "education",
+    "stars": 156,
+    "watchers": 156,
+    "forks": 12,
+    "viewCount": 608,
+    "viewUnique": 323
+  },
+  {
+    "name": "github-bot",
+    "stars": 35,
+    "watchers": 35,
+    "forks": 24,
+    "viewCount": 365,
+    "viewUnique": 73
+  },
+  {
+    "name": "inclusivity-slack-inviter",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 5,
+    "viewCount": 1,
+    "viewUnique": 1
+  },
+  {
+    "name": "vm",
+    "stars": 17,
+    "watchers": 17,
+    "forks": 3,
+    "viewCount": 3,
+    "viewUnique": 3
+  },
+  {
+    "name": "nodejs.org-new",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 2,
+    "viewCount": 4,
+    "viewUnique": 4
+  },
+  {
+    "name": "CTC",
+    "stars": 27,
+    "watchers": 27,
+    "forks": 7,
+    "viewCount": 1018,
+    "viewUnique": 437
+  },
+  {
+    "name": "installer",
+    "stars": 174,
+    "watchers": 174,
+    "forks": 21,
+    "viewCount": 54,
+    "viewUnique": 32
+  },
+  {
+    "name": "v8",
+    "stars": 10,
+    "watchers": 10,
+    "forks": 9,
+    "viewCount": 75,
+    "viewUnique": 29
+  },
+  {
+    "name": "nodereport",
+    "stars": 30,
+    "watchers": 30,
+    "forks": 7,
+    "viewCount": 206,
+    "viewUnique": 86
+  },
+  {
+    "name": "http2",
+    "stars": 115,
+    "watchers": 115,
+    "forks": 15,
+    "viewCount": 584,
+    "viewUnique": 193
+  },
+  {
+    "name": "abi-stable-node",
+    "stars": 26,
+    "watchers": 26,
+    "forks": 7,
+    "viewCount": 263,
+    "viewUnique": 89
+  },
+  {
+    "name": "abi-stable-node-addon-examples",
+    "stars": 0,
+    "watchers": 0,
+    "forks": 0,
+    "viewCount": 32,
+    "viewUnique": 5
+  },
+  {
+    "name": "nodejs-dist-indexer",
+    "stars": 2,
+    "watchers": 2,
+    "forks": 1,
+    "viewCount": 9,
+    "viewUnique": 1
+  },
+  {
+    "name": "nodejs-nightly-builder",
+    "stars": 2,
+    "watchers": 2,
+    "forks": 0,
+    "viewCount": 0,
+    "viewUnique": 0
+  },
+  {
+    "name": "nodejs-latest-linker",
+    "stars": 0,
+    "watchers": 0,
+    "forks": 0,
+    "viewCount": 0,
+    "viewUnique": 0
+  },
+  {
+    "name": "version-management",
+    "stars": 22,
+    "watchers": 22,
+    "forks": 2,
+    "viewCount": 150,
+    "viewUnique": 32
+  },
+  {
+    "name": "security-wg",
+    "stars": 4,
+    "watchers": 4,
+    "forks": 1,
+    "viewCount": 333,
+    "viewUnique": 38
+  }
+]

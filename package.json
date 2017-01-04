@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "co": "^4.6.0",
     "dotenv": "^2.0.0",
     "github": "^7.2.0"
   }
